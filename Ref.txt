@@ -1,0 +1,2 @@
+https://dataedo.com/kb/databases/sql-server/sample-databases
+https://docs.yugabyte.com/latest/sample-data/chinook/
